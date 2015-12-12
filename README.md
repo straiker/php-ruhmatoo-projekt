@@ -1,14 +1,19 @@
-# PHP rühmatöö projekt
-**Rühmatööde demo päev** on valitud eksamipäev jaanuaris, kuhu tuleks tullakse terve rühmaga koos!
+# PHP Veebirakendus: Logistika tarkvara
 
-## Tööjuhend
-1. Üks rühma liikmetest fork'ib endale käesoleva repositooriumi ning annab teistele kirjutamisõiguse/ligipääsu
-1. Tee kohe Pull request
-1. Muuda repositooriumi README.md faili vastavalt nõutele
-1. Tee valmis korralik veebirakendus
+## Liikmed
+1. Rait Avastu
 
-### Nõuded
+### Eesmärk
+    * Antud veebirakenduse eesmärgiks on luua lihtne keskkond kauba saatmise organiseerimiseks määratud sihtkohtade vahel.
+   
+### Funktsionaalsus
+    *
+    *
+    *
 
+
+
+### Delete later 
 1. **README.md sisaldab:**
     * suurelt projekti nime;
     * rühma liikmete nimed;
